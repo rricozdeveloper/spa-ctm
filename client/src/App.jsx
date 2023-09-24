@@ -1,33 +1,24 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import ctmLogo from '/logoCTM.png'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
       <div>
         <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
+          <img src={ctmLogo} className="logo" alt="ctm logo" />
         </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+        
       </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
+      <h1>UNIVERSIDAD DE CARTAGENA | Centro Tutorial de Mompox</h1>
+      
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        Proyecto en desarrollo SPA del CTM - Universidad de Cartagena
       </p>
+      <p>Desarrolladores: </p>
+      <p> Backend:<br></br> Leidy Nuñez, Daniel Ospino, Juan Camilo Martínez, </p>
+      <p> Frontend : <br></br> Jhon López ,Kenny Rodríguez, Ricardo Rico, Santiago Malagón, Yasedis Gómez, , Yorleis Arias </p>
     </>
   )
 }

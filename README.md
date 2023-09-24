@@ -100,7 +100,7 @@ En esta arquitectura Cliente-Servidor, el cliente interactúa con el servidor me
 
 ## **📖 ENUNCIADO GENERAL**  
 
-El propósito central de este proyecto es desarrollar una aplicación web destinada al Centro Tutorial de Mompox, con el objetivo de brindar a los usuarios la capacidad de:
+El propósito central de este proyecto es desarrollar una aplicación web destinada al Centro Tutorial de Mompox, con el objetivo de brindar a la comunidad del mismo y a los usuarios la capacidad de:
 
 - **Explorar Ofertas Académicas**: Acceder a información detallada sobre las carreras académicas ofrecidas en el Centro Tutorial de Mompox, incluyendo descripciones, requisitos y programas de estudio.  
 
